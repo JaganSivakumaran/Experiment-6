@@ -13,8 +13,8 @@ Step 6: Send SMS and Display details give in MainActivity file.
 Step 7: Save and run the application.
 ### PROGRAM:
 ```
-DEVELOPED BY:HIBA RAJARAJESWARI
-REGISTER NUMBER:212221040056
+DEVELOPED BY:Jagan S
+REGISTER NUMBER:212221040061
 ```
 ### activity_main.xml
 ```
